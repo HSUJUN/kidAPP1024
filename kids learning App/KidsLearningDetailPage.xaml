@@ -22,7 +22,7 @@
                         <Label FontSize="Medium"
                                FontAttributes="Bold"
                                HorizontalOptions="Center"
-                               Text="{Binding ImageUrl}"/>
+                               Text="{Binding Name}"/>
                     </VerticalStackLayout>
                 </Border>
             </DataTemplate>
